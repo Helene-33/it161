@@ -1,3 +1,2 @@
 # it161
-IT161 class Winter 2021
-First class creating a website.
+IT161 class Winter 2021 - first website designed
